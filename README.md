@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="" />
+   <img align="center" width="200" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/profile.png" />
    <h2 align="center">¡Hey 👋! I am Eduardo 👨🏻‍💻</h2>
 </p>
 
