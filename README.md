@@ -1,4 +1,15 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="" />
+   <h2 align="center">¡Hey 👋! I am Eduardo 👨🏻‍💻</h2>
+</p>
+
+<p align="center">Computer Engineering student with a great interest in software development and cyber security. I have a great ability to adapt to all types of environments and always give my best. I am characterized by my ease of working in a team and my enthusiasm for learning and developing my skills.<br /></p>
+
+<h2>📫 How to reach me:</h2>
+<ul>
+    <li><strong>Email: </strong><a href="mailto:velmaredu@gmail.com">velmaredu@gmail.com</a></li>
+    <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/username">@velmaredu</a></li>
+ </ul>
 
 <!--
 **velmaredu/velmaredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
