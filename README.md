@@ -7,8 +7,11 @@
 
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/velmaredu/" target="blank">
+   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='margin-right:6px'>
     <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/linkedin.svg" alt="velmaredu" height="28px" width="28px"/>
+  </a>
+  <a href="mailto:velmaredu@gmail.com" target="blank">
+    <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/gmail.svg" alt="velmaredu" height="28px" width="28px"/>
   </a>
 </p>
 
@@ -25,11 +28,15 @@
     <li>C</li>
 </ul>
 
+<p>💬 Ask me about anything</p> 
+
 <h2>📫 How to reach me:</h2>
 <ul>
     <li><strong>Email: </strong><a href="mailto:velmaredu@gmail.com">velmaredu@gmail.com</a></li>
     <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/velmaredu/">@velmaredu</a></li>
 </ul>
+
+
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=velmaredu&show_icons=true&theme=gotham" alt="velmaredu" /></p>
 
@@ -42,7 +49,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 -  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
