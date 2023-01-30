@@ -8,7 +8,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/velmaredu/" target="blank">
-    <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/linkedin.svg" alt="velmaredu"/>
+    <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/linkedin.svg" alt="velmaredu" height="28px" width="28px"/>
   </a>
 </p>
 
