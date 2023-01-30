@@ -7,7 +7,7 @@
 
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='margin-right:6px'>
+   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='margin-right:15px'>
     <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/linkedin.svg" alt="velmaredu" height="28px" width="28px"/>
   </a>
   <a href="mailto:velmaredu@gmail.com" target="blank">
@@ -28,9 +28,12 @@
     <li>C</li>
 </ul>
 
-<p>💬 Ask me about anything</p> 
+<h2>✨ More</h2>
+<ul>
+   <li>💬 Ask me about anything</li>
+</ul>
 
-<h2>📫 How to reach me:</h2>
+<h2>📫 How to reach me</h2>
 <ul>
     <li><strong>Email: </strong><a href="mailto:velmaredu@gmail.com">velmaredu@gmail.com</a></li>
     <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/velmaredu/">@velmaredu</a></li>
