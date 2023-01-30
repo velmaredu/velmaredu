@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h2>Languages</h2>
+<h2>💻 Languages</h2>
 <ul>
     <li>Java</li>
     <li>HTML</li>
