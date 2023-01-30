@@ -7,7 +7,7 @@
 
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='margin-right:15px'>
+   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='margin-right:50px'>
     <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/linkedin.svg" alt="velmaredu" height="28px" width="28px"/>
   </a>
   <a href="mailto:velmaredu@gmail.com" target="blank">
@@ -42,18 +42,3 @@
 
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=velmaredu&show_icons=true&theme=gotham" alt="velmaredu" /></p>
-
-<!--
-**velmaredu/velmaredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
--  ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
