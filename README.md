@@ -12,6 +12,19 @@
   </a>
 </p>
 
+<h2>Languages</h2>
+<ul>
+    <li>Java</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+    <li>Angular</li>
+    <li>SpringBoot</li>
+    <li>SQL</li>
+    <li>Python</li>
+    <li>C</li>
+</ul>
+
 <h2>📫 How to reach me:</h2>
 <ul>
     <li><strong>Email: </strong><a href="mailto:velmaredu@gmail.com">velmaredu@gmail.com</a></li>
