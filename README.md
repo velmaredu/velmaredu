@@ -7,7 +7,7 @@
 
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='padding-right:15px'>
+   <a href="https://www.linkedin.com/in/velmaredu/" target="blank">
     <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/linkedin.svg" alt="velmaredu" height="28px" width="28px"/>
   </a>
   <a href="mailto:velmaredu@gmail.com" target="blank">
