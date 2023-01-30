@@ -7,10 +7,10 @@
 
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='margin-right:15px; display:inline-block'>
+   <a href="https://www.linkedin.com/in/velmaredu/" target="blank" style='margin-right:15px'>
     <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/linkedin.svg" alt="velmaredu" height="28px" width="28px"/>
   </a>
-  <a href="mailto:velmaredu@gmail.com" target="blank" style="display:inline-block">
+  <a href="mailto:velmaredu@gmail.com" target="blank">
     <img align="center" src="https://github.com/velmaredu/velmaredu/blob/main/src/images/gmail.svg" alt="velmaredu" height="28px" width="28px"/>
   </a>
 </p>
