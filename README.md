@@ -11,6 +11,8 @@
     <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/username">@velmaredu</a></li>
  </ul>
 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=velmaredu&show_icons=true&theme=gotham" alt="velmaredu" /></p>
+
 <!--
 **velmaredu/velmaredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
