@@ -26,6 +26,7 @@
     <li>SQL</li>
     <li>Python</li>
     <li>C</li>
+   <li>R</li>
 </ul>
 
 <h2>✨ More</h2>
